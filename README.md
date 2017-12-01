@@ -33,8 +33,18 @@ In this graph, we can see that youth who watch more television and participate i
 ---------
 
 ## Final Versions:
+
+
 ### How Sugar Intake Affect Obesity (Yuhao)
+** Suggestion: remove the legend from the screenshot. They're all the same color so the audience won't be able to tell the difference**
+
 ![image](img/sugar_intake.png)
+
+### How Availability of Food Affects Obesity (Melvin) 
+
+![image](img/ChildObesity_VS_FreeLunch.png)
+
+Some elementary schools in various states offer a free lunch program for kids living in poverty. Here we see that a higher percentage of kids in said program correlates with a higher percentage of kids in the state who are obese. The more readily abundant food is to a person, the higher the chance he grows obese. A lunch program may be helpful in teaching children nutrition education in ways that a parent cannot, but there are other lifestyle factors other than food intake habits that contribute to obesity.
 
 ### Physical activity and it's relationship to obesity (Elena)
 
@@ -54,6 +64,18 @@ The southern states surrounding Mississippi and Louisianna have some of the lowe
 For example, Michigan's Department of Community Health passed a legislation in which the Department of Transportation will consider all types of transportation (pedestrians, bicyclists, motorists and public transportation riders) when they design their transportation. This encourages more people to be physically active as they have easier access to safely walk or bike. Another successful initiative was in Minnesota in which they implemented a Safe Routes to School program. This program fosters a better environment for youths to bike or walk to school. They were able to accomplish this by creating safer routes, educating on the importance of exercise and creating after-school programs that encourage physical activity.
 
 *More information on these initiatives can be found here: https://www.cdc.gov/physicalactivity/downloads/pa_state_indicator_report_2014.pdf
+
+
+---------------------------------------------------
+Meiyuan's - not done
+### How education level relate to obesity
+![image](img/Meiyuan_1.png)
+
+### How poverty relate to adult obesity
+![image](img/Meiyuan_2.png)
+
+### How poverty relate to youth obesity
+![image](img/Meiyuan_3.png)
 
 ----------
 ## Future Enhancements
